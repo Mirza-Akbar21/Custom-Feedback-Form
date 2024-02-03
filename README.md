@@ -50,6 +50,6 @@ This feedback form is highly customizable to suit your specific needs. You can e
 
 **Contact:**
 
-If you have any questions, suggestions, or encounter any issues with our Custom Feedback Form, please contact us at akbarbaig610r@email.com or github
+If you have any questions, suggestions, or encounter any issues with our Custom Feedback Form, please contact us at akbarbaig610@email.com or github
 
 We value your feedback and look forward to hearing from you!
