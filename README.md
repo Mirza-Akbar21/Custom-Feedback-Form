@@ -1,10 +1,10 @@
 **Custom Feedback Form:**
 
-This is the Custom Feedback Form. This repository contains the source code and assets for our feedback form, which allows users to provide valuable feedback on our products, services, or website.
+This is the Custom Feedback Form. This repository contains the source code and assets for my feedback form, which allows users to provide valuable feedback on my products, services, or website.
 
 **About the Feedback Form:**
 
-Our Custom Feedback Form is a user-friendly tool designed to gather insights and suggestions from our users. It serves as a direct channel for communication between our organization and our audience, helping us improve our offerings.
+My Custom Feedback Form is a user-friendly tool designed to gather insights and suggestions from users. It serves as a direct channel for communication between me & organization and my audience, helping us to improve my offerings services.
 
 **Features:**
 **Customizable Fields:** Easily tailor the form to collect specific information.
